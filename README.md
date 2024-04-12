@@ -10,3 +10,12 @@ A car lane game is typically an endless driving game where the objective is to n
 + if it had a collision with other car or go off road it will be game over for the player
 + there will be gradual increase in the speed of the car incoming that need to be avoided
 + at last the player will get the information about the level he had reached
+
+## How to run this code:
+
++ download all the files firstly in a same directory
++ now open the directory of that file in the terminal 
++ use this command:
+---
+python Mai.py
+---
