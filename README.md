@@ -16,6 +16,6 @@ A car lane game is typically an endless driving game where the objective is to n
 + download all the files firstly in a same directory
 + now open the directory of that file in the terminal 
 + use this command:
----
+'''
 python Mai.py
----
+'''
